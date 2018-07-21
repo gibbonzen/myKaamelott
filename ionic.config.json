@@ -1,0 +1,8 @@
+{
+  "name": "myKaamelott",
+  "app_id": "72c45bb7",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
